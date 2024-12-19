@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084624060866",
+    "project_id": "hankamel-talem",
+    "storage_bucket": "hankamel-talem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084624060866:android:46453d926d85784a50565b",
+        "android_client_info": {
+          "package_name": "hs.hankammelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMZKRhwUS-MpxO4L9Ao7Lv9tR_BJENZ2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
